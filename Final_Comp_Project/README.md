@@ -1,0 +1,2 @@
+2015-10-26, Anders Hornor. This is a set of directories designed to be used as a template for future computational projects. Each Section is logicalally organized with some room for future chromological organization.
+2015-10-26, Anders Hornor. This is a set of directories designed to be used as a template for future computational projects. Each Section is logicalally organized with some room for future chromological organization.
